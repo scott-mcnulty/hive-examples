@@ -10,7 +10,7 @@ Here are some examples of situations I've run into when using Hive. Adding them 
 
 -----
 
-## [Creating an External Table Over Subdirectories](https://github.com/scott-mcnulty/hive-templates-and-examples/creating-external-table-over-subdirectories)
+## [Creating an External Table Over Subdirectories](creating-external-table-over-subdirectories/README.md)
 
 This is an example where an external table uses partitions to incorporate data from many different subdirectories. When this was made I wasn't able to change the Hive configuration to use `hive.mapred.supports.subdirectories=TRUE;` and `mapred.input.dir.recursive=TRUE;` so I had to come up with a way around it. In other environments using the previously mentioned settings may be preferable.
 
