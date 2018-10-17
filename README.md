@@ -2,10 +2,10 @@
 
 Here are some examples of situations I've run into when using Hive. Adding them here in case anyone else (or myself) needs a reference to use when setting up similar cases.
 
-## Table of Contents
+# Table of Contents
 
 - [Hive Templates and Examples](#hive-templates-and-examples)
-    - [Table of Contents](#table-of-contents)
+- [Table of Contents](#table-of-contents)
     - [Creating an External Table Over Subdirectories](#creating-an-external-table-over-subdirectories)
 
 -----
